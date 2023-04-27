@@ -1,0 +1,234 @@
+create database job_analysis
+
+use job_analysis
+
+select * from MainJobAnalytics
+--select * from Company_Table	
+select * from Details_Table
+
+select Job_ID,Job,CompanyID,c.Company_Name,Location from MainJobAnalytics as m
+right join Company_Table as c
+on m.Company_Name=c.Company_Name
+----------------------------------------------------------------------------------------------------------
+
+select * from MainJobAnalytics
+select * from Company_Table
+select * from Details_Table
+
+
+
+select * into table1
+from
+(
+select job_id,job,companyid,location,detail_id
+from MainJobAnalytics as m
+right join Company_Table as c
+on m.Company_Name=c.Company_Name
+join Details_Table as d 
+on m.details=d.details
+) as a
+
+
+
+select * from table1
+
+drop table Details_Table
+drop table MainJobAnalytics
+
+select * into
+mainsheet
+from (
+select * from table1 as t1
+join Company_Table as c
+on t1.companyid=c.CompanyID
+join Details_Table as d
+on  t1.detail_id=d.Detail_ID
+)as a
+
+alter table details_table
+drop column details
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+select * from table1
+select * from Company_Table
+select * from details_table
+
+
+drop table jobs_table
+
+select top 10 Location, count(job_id) as Number_of_JObs from jobs_table
+Group by location 
+Order By Number_of_JObs desc
+
+
+
+
+---------------------------------------MAIN INSIGHTS-----------------------------------
+
+
+----count of opening with employee count more than 1000
+select count(*) as Number_of_openings_more_than_1000 from (
+select job_id,j.company_id,employee_count 
+from Company_Table as c 
+join jobs_table as j
+on c.CompanyID=j.company_id
+where Employee_Count>1000
+)as a
+
+
+----count of opening with employee count less than 100
+select count(*) as Number_of_openings_less_than_100 from (
+select job_id,j.company_id,employee_count 
+from Company_Table as c 
+join jobs_table as j
+on c.CompanyID=j.company_id
+where Employee_Count<100
+)as a
+
+
+
+----job count on the basis of industry
+select * from jobs_table
+select * from Company_Table
+
+select industry,count(*) as number_of_openings from (
+select job_id,j.company_id,industry 
+from jobs_table as j
+join Company_Table as c
+on j.company_id=c.CompanyID
+) as a
+group by industry
+order by number_of_openings desc
+
+
+select job_title,location,count(*) as openings from (
+select job_id,job_title,j.company_id,location
+from jobs_table as j
+join Company_Table as c
+on j.company_id=c.CompanyID
+) as a
+group by job_title,location
+order by job_title
+
+
+----------------
+--- Top 5 locations for Analyst and Software jobs
+Select top 5 Location, Count(Job_ID) as Number_of_Analysts_Opening
+from jobs_table
+where Job_Title like '%alyst%'
+group by Location 
+Order by Number_of_Analysts_Opening desc
+
+
+Select top 5 Location, Count(Job_ID) as Number_of_Software_Opening
+from jobs_table
+where Job_Title like '%developer%' or Job_Title like '%Software%'
+group by Location
+Order by Number_of_Software_Opening desc
+
+
+--- Count of Openings in Terms of Level
+Select Level, Count(D.Detail_ID) as Opening_Level
+From Details_Table as D
+JOin jobs_table as J
+ON J.Detail_ID = D.Detail_ID
+Group By Level
+Order By Opening_Level Desc
+
+
+
+
+-- JOb openings for Analysts
+Select count(Job_Title) as AnalystJobs from jobs_table
+where Job_Title like '%Data%' or Job_Title Like '%Alyst%'
+
+--Job Openings for Software and Developer
+Select count(Job_Title) as SoftwareJobs from jobs_table
+where Job_Title like '%Software%' or Job_Title Like '%Developer%'
+
+Select * from Company_Table
+Select 
+
+-- Companies with Most Linkedin followers
+Select top 11 Company_Name,LinkedIn_Followers
+from Company_Table
+Order By LinkedIn_Followers Desc
+
+
+--- Industry Type with most Followers
+
+Select top 10 Industry, Sum(Linkedin_Followers) as Total_Followers
+From Company_Table
+Group By Industry
+Order By Total_Followers DESC;
+
+
+select * from Company_Table
+
+----------------------------
+--company wise openings
+
+select top 10 company_name,count(job_id) as number_of_openings
+from jobs_table as j
+join Company_Table as c
+on j.company_id=c.CompanyID
+group by company_name
+order by number_of_openings desc
+
+
+
+select * from jobs_table
+select * from Company_Table
+
+
+select company_name,linkedin_followers,sum(total_applicants) as Total_Number_of_Applicants from (
+select company_name,linkedin_followers,total_applicants,job_id
+from jobs_table as j
+join Company_Table as c
+on j.company_id=c.CompanyID
+join details_table as d
+on j.detail_id=d.detail_id) as b
+group by Company_Name,LinkedIn_Followers
+
+
+
+
+
+
+select top 10 location,count(*) as number_of_openings
+from jobs_table
+group by location
+order by number_of_openings desc
+
+	
+
+
+ -------industry V/S Applicant SQL Query
+ SELECT TOP 15 Industry, SUM(Total_Applicants) AS Total_Applicants
+FROM Company_table AS C
+JOIN jobs_table AS J
+ON J.Company_ID = C.CompanyID
+JOIN details_table AS D
+ON D.Detail_ID = J.Detail_ID
+GROUP BY Industry
+ORDER BY Total_Applicants DESC
+
+
+
+----company name V/S LinkedIn followers
+select top 15 company_name,linkedin_followers,sum(total_applicants) as Total_Number_of_Applicants from (
+select company_name,linkedin_followers,total_applicants,job_id
+from jobs_table as j
+join Company_Table as c
+on j.company_id=c.CompanyID
+join details_table as d
+on j.detail_id=d.detail_id) as b
+group by Company_Name,LinkedIn_Followers
+ORDER BY Total_Number_of_Applicants desc
+
+
+
+
+

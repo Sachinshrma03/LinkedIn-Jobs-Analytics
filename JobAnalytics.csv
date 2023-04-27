@@ -1,0 +1,354 @@
+﻿Job_id,Job,Company Name,location,Industry,Employee Count,LinkedIn_Followers,Involvement,Level ,Total_Applicants
+J1,Analyst/Sr. Analyst-Digital Product Analytics (SQL/Visualization Tools),American Express  ,"Gurgaon, Haryana, India",Financial Services ,"10,001","17,01,642",Full-time,Mid-Senior level,54
+J2,Associate-Reporting,Accenture in India,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001","13,99,337",Full-time ,Entry level,59 
+J3,Analyst-Reporting,Accenture in India,"Mumbai, Maharashtra, India ",Information Technology & Services,"10,001","13,99,337",Full-time ,Entry level,17 
+J4,Data Analyst / Sr. Analyst - Analytics,Colgate-Palmolive,"Mumbai, Maharashtra, India ",Consumer Goods,"10,001","1,975,214 ",Full-time,NA,124 
+J5,Sr. Data Analyst,Advance Auto Parts,"Hyderabad, Telangana, India ",Retail,"10,001","101,668 ",Full-time,Associate,58 
+J6,Analyst,Novartis India,"Hyderabad, Telangana, India ",Pharmaceuticals  ,"10,001","111,727 ",Full-time,Associate,51
+J7,Analyst,Novartis India,"Hyderabad, Telangana, India ",Pharmaceuticals  ,"10,001","111,727 ",Full-time,Associate,31
+J8,Tableau Data Platform Engineer,Accenture in India,"Pune, Maharashtra, India",Information Technology & Services,"10,001","13,99,337",Full-time,Entry level,9
+J9,Analyst,_VOIS,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001","84,023",Full-time,Entry level,173
+J10,Associate Data Analyst,"Neustar, Inc. ","Hyderabad, Telangana, India ",Information Technology & Services,"5,000","67,636 ",Full-time,Associate,200
+J11,Business Analyst,Microsoft,"Hyderabad, Telangana, India ",Computer Software,"10,001","1,77,74,440",Full-time,Associate,200
+J12,Growth Analyst,Turing.com,"Pune, Maharashtra, India",Information Technology & Services,"5,000","127,941 ",Full-time,NA,70
+J13,"Analyst, Inventory Optimization",Stryker,"Gurgaon, Haryana, India",Medical Device,"10,001","981,227 ",Full-time,Associate,7
+J14,Analyst-Data Science,American Express  ,"Gurgaon, Haryana, India",Financial Services ,"10,001","17,01,642",Full-time,Entry level,200
+J15,Data Analyst,Optum,"Noida, Uttar Pradesh, India",Hospital & Health Care ,"10,001","516,149 ",Full-time ,Entry level,40
+J16,DATA MANAGEMENT ANALYST,Micron Technology ,"Hyderabad, Telangana, India ",Semiconductors,"10,001","444,167 ",Full-time ,NA,12
+J17,Data Eng.,_VOIS,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001","84,023",Full-time ,Entry level,140
+J18,Analyst,Bank of America ,"Mumbai, Maharashtra, India ",Banking ,"10,001","2,258,970 ",Full-time ,Entry level,171
+J19,Analyst - Reporting,dentsu international,"Bengaluru, Karnataka, India",Marketing & Advertising ,"10,001","647,910 ",Full-time,Associate,10
+J20,Data Analyst,ANZ,"Bengaluru, Karnataka, India",Banking ,"10,001","558,346 ",Full-time,NA,138
+J21,SQL (Data Analyst),Giant Eagle GCC,"Bengaluru, Karnataka, India",Information Technology & Services,200,"2,154 ",Full-time ,Entry level,31
+J22,Data Analyst - SQL & Python,Giant Eagle GCC,"Bengaluru, Karnataka, India",Information Technology & Services,201,"2,154 ",Full-time ,Entry level,67
+J23,Associate I - Data Analysis,UST,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001","660,827 ",Full-time ,Associate,200
+J24,Data Analyst - Operational Excellence,Shell ,"Bengaluru, Karnataka, India",Oil & Energy ,"10,001","5,922,917 ",Full-time,NA,50
+J25,Associate Analyst-Quality BI,Eaton  ,"Pune, Maharashtra, India",Electrical & Electronic Manufacturing ,"10,001","1,242,164 ",Full-time,Mid-Senior level,1
+J26,Tableau Data Platform Engineer,Accenture in India,"Gurgaon, Haryana, India",Information Technology & Services,"10,001","13,99,337",Full-time,Mid-Senior level,4
+J27,Junior Analytics Engineer - Associate 2,State Street,"Mumbai, Maharashtra, India ",Financial Services ,"10,001","435,909 ",Full-time,NA,27
+J28,Data Analyst ,Michael Page,Greater Kolkata Area,Staffing & Recruiting,"10,000","3,007,322 ",Full-time,Entry level,6
+J29,Associate Business Analyst,Novo Nordisk,"Bengaluru, Karnataka, India",Pharmaceuticals  ,"10,001","1,302,821 ",Full-time,NA,1
+J30,Associate - Data Analyst,"Mettler-Toledo International, Inc","Mumbai, Maharashtra, India ",Electrical & Electronic Manufacturing,"10,001","108,836 ",Full-time ,Associate,200
+J31,Senior Analyst,Barclays,"Pune, Maharashtra, India",Financial Services ,"10,001","1,251,058 ",Full-time,Associate,10
+J32,Senior Data Analyst,TE Connectivity,"Bengaluru, Karnataka, India",Electrical & Electronic Manufacturing,"10,001","442,595 ",Full-time,Mid-Senior level,5
+J33,Data Analyst,Gameskraft,"Bengaluru, Karnataka, India",Computer Games,"1,000","21,553 ",Full-time,Mid-Senior level,200
+J34,Data Analyst,Edu Angels India Private Limited,"Bengaluru, Karnataka, India",Consumer Services ,200,32,Full-time,Mid-Senior level,32
+J35,Senior Analyst,Hotstar,"Bengaluru, Karnataka, India",Computer Software ,"1,000","719,232 ",Full-time ,Associate,69
+J36,Analyst,Bank of America ,"Hyderabad, Telangana, India ",Banking ,"10,001","2,258,970 ",Full-time ,Entry level,159
+J37,Data Analyst,Moody's Corporation,"Bengaluru, Karnataka, India",Financial Services ,"10,001","142,128 ",Full-time ,NA,84
+J38,PRODUCT PRICING ANALYST I,TE Connectivity,"Bengaluru, Karnataka, India",Electrical & Electronic Manufacturing,"10,001","442,595 ",Full-time ,Associate,33
+J39,Growth Analyst,Turing.com,"Bengaluru, Karnataka, India",Information Technology & Services,"5,000","127,941 ",Full-time,NA,84
+J40,Business Analyst,Novo Nordisk,"Bengaluru, Karnataka, India",Pharmaceuticals  ,"10,001","1,302,821 ",Full-time,NA,3
+J41,Analyst,Barclays,"Pune, Maharashtra, India",Financial Services ,"10,001","1,251,058 ",Full-time,Associate,10
+J42,Data Analyst,Chubb,"Bengaluru, Karnataka, India",Insurance ,"10,001","615,145 ",Full-time ,Entry level,25
+J43,MI Analyst,American Express  ,"Gurgaon, Haryana, India",Financial Services ,"10,001","17,01,642",Full-time,NA,45
+J44,Data Analyst (Temporary Full Time),Electronic Arts (EA),"Hyderabad, Telangana, India",Computer Games,"10,001","1,075,143 ",Full-time,NA,200
+J45,Power Electronic Systems Engineer,Jaguar Land Rover India," Bangalore Urban, Karnataka, India ",Automotive  ,201-500,"102,725 ",Full-time , Mid-Senior level,200
+J46,Technical Lead - Data Engineering,Viasat Inc. ,Viasat Inc. ,Telecommunications,"5,001-10,000","90,749 ",Full-time,NA,7 
+J47,Business Insights Analyst (Waymo),TaskUs ,"Gurgaon, Haryana, India",Outsourcing/Offshoring,"10,001","139,474 ",Full-time,Full-time,200
+J48,Analyst/Data Analytics,D. E. Shaw India Private Limited,"yderabad, Telangana, India",Financial Services,"1,000 ","72,352 ",Full-time,Entry level,200
+J49,SC Master Data Analyst,Medtronic,"Gurgaon, Haryana, India",Medical Device  ,"10,001","1,417,673 ",Full-time,Mid-Senior level,70
+J50,Senior Engineer - Production,BorgWarner,"Tiruvallur, Tamil Nadu, India",Automotive  ,"10,001","266,728 ",Full-time,NA,177
+J51,Data Analyst,UBS,"Mumbai, Maharashtra, India ",Financial Services,"10,001","1,205,434 ",Full-time,NA,184
+J52,Business Analyst,TechSevin Solution LLP,"Mumbai, Maharashtra, India ",Information Technology & Services,200,"2,095 ",Full-time,NA,200
+J53,Data Analyst - II,Chegg India,"Delhi, Delhi, India",E-learning,"1,000 ","54,333 ",Full-time,Entry level,200
+J54,Data Governance Lead,Dover India,"Bengaluru, Karnataka, India",Machinery  ,"1,000 ","53,466 ",Full-time,Mid-Senior level,98
+J55,Data Analyst,AFIV DATA OUTSOURCING,"Surat, Gujarat, India",Information Technology & Services,50 ,"14,591 ",Full-time,NA,200
+J56,Advanced Data Engineer,Honeywell,"Bengaluru, Karnataka, India",Electrical & Electronic Manufacturing,"10,001","2,221,925 ",Full-time,Associate,51
+J57,Business Analyst,E Connect Solutions Pvt. Ltd,"Jaipur, Rajasthan, India",Information Technology & Services,"1,000 ","4,438 ",Full-time,Mid-Senior level,200
+J58,Business Analyst,Navi,"Bangalore Urban, Karnataka, India",Financial Services,"1,000 ","163,249 ",Full-time,Associate,200
+J59,People Data Analyst,AVEVA ,"Bengaluru, Karnataka, India",Computer Software,"5,000 ","220,860 ",Full-time,Entry level,200
+J60,Excel Forecasting,WNS,"Noida, Uttar Pradesh, India",Outsourcing/Offshoring,"10,001","499,613 ",Full-time,Mid-Senior level,200
+J61,Data Analyst | WFH,Michael Page,Greater Kolkata Area,Staffing & Recruiting,"10,000 ","3,007,820 ",Full-time,Entry level,8
+J62,Business Analyst,Simplify Healthcare,"Pune, Maharashtra, India",Information Technology & Services,"1,000 ","62,475",Full-time,Entry level,200
+J63,Project Engineer,Taurus Contractors Pvt Ltd ,"Gurgaon, Haryana, India",Oil & Energy,50 ,"28,308 ",Full-time,Mid-Senior level,200
+J64,Data Analyst,LKQ Corporation,"Bangalore Urban, Karnataka, India",Automotive  ,"10,001","43,182 ",Full-time,Entry level,33
+J65,Manager- Process Engineering,Mahindra Group,"Nagpur, Maharashtra, India",Executive Office,"10,001","998,435 ",Full-time,Mid-Senior level,141
+J66,Industrial Engineer,Ford Motor Company,"Chennai, Tamil Nadu, India",Automotive  ,"10,001","3,645,053 ",Full-time,Entry level,197
+J67,Data Analyst,Iris Software Inc,"Noida, Uttar Pradesh, India",Information Technology & Services,"5,000 ","230,574 ",Full-time,Entry level,200
+J68,Data Analyst,Optum,"Noida, Uttar Pradesh, India",Hospital & Health Care,"10,001","516,498 ",Full-time,Entry level,200
+J69,Planning - Business Analyst,Zepto ,"Mumbai, Maharashtra, India ",Computer Software,200 ,"94,160 ",Full-time,Associate,200
+J70,Data Analyst - 08,Michelin ,"Pune, Maharashtra, India",Automotive  ,"10,001","616,381 ",Full-time,NA,200
+J71,Business Analytics Analyst,Citi,"Pune, Maharashtra, India",Financial Services,"10,001","3,813,311 ",Full-time,NA,200
+J72,Data Analyst,Moody's Corporation ,"Gurgaon, Haryana, India",Financial Services,"10,001","142,187 ",Full-time,NA,105
+J73,Data Scientist-1,Mastercard,"Gurgaon, Haryana, India",Information Technology & Services,"10,001","1,096,069 ",Full-time ,Entry level,200
+J74,"Data Analyst, 2",Bread Financial ,"Bengaluru, Karnataka, India",Financial Services,"10,000 ","69,790 ",Full-time,Associate,43
+J75,P1-Lead Analyst - BI and Analytics_COA,R1 RCM ,"Gurgaon, Haryana, India",Hospital & Health Care,"10,001","98,792 ",Full-time,NA,41
+J76,"Analyst, Data Management & Quantitative Analysis",BNY Mellon,"Pune, Maharashtra, India",Financial Services,"10,001","444,685 ",Full-time,NA,26
+J77,Item Data Analyst,Target,"Bengaluru, Karnataka, India",Retail  ,"10,001","1,557,165 ",Full-time,Entry level,200
+J78,Associate Data Analyst,Levi Strauss & Co,"Bengaluru, Karnataka, India ",Apparel & Fashion,"10,001","601,539 ",Full-time,NA,200
+J79,Business Analyst (Analytics),Nayara Energy ,"Mumbai, Maharashtra, India",Oil & Energy,"5,000 ","189,323 ",Full-time,Mid-Senior level,200
+J80,Data Manager,Clario , India ,Computer Software,"10,000 ","39,755 ",Full-time,Associate,200
+J81,SDN Cloud Consultant / Architect,Juniper Networks,"Bengaluru, Karnataka, India",Computer Software,"10,000 ","6,30,166",Full-time,Director,85
+J82,Manufacturing Operations Manager,Charcoal.linkedIn,"Bengaluru, Karnataka, India", Consumer Electronics,10 ,"14,647 ",Full-time,NA,200
+J83,"Analyst, Data Science & Analytics",TransUnion ,"Pune, Maharashtra, India",Information Technology & Services,"10,000 ","277,661 ",Full-time,NA,200
+J84,Business Analyst,Saveo.in,"Bengaluru, Karnataka, India ","Health, Wellness & Fitness",200 ,"44,879 ",Full-time,NA,200
+J85,"Analyst, Services Business Intelligence",Ciena,"Gurgaon, Haryana, India",Telecommunications  ,"10,000 ","171,020 ",Full-time,NA,5
+J86,Data Science Manager/Senior Manager,Merilytics,"Hyderabad, Telangana, India",Management Consulting,500 ,"42,957 ",Full-time,Mid-Senior level,197
+J87,"Analyst/Associate, Developer Analytics & Data Science, (Sql/Python/Tableau) Global Trading",BlackRock ,"Gurgaon, Haryana, India",Financial Services,"10,001","1,160,704 ",Full-time,NA,181
+J88,Business Analyst,Embibe ,"Bangalore Urban, Karnataka, India",E-learning,"1,000 ","65,732 ",Full-time,Executive,200
+J89,Learning Operations - Analyst,Deloitte ,"Hyderabad, Telangana, India",Management Consulting,"10,001","10,651,643 ",Full-time,NA,176
+J90,Engineering Manager,Pocket FM,India ,Internet  ,500 ,"89,972 ",Full-time,Mid-Senior level,200
+J91,Site Process Engineer,Momentive,"Chennai, Tamil Nadu, India",Chemicals  ,"10,000 ","65,651 ",Full-time,Entry level,85
+J92,"Associate Content Specialist, ESG Data Solutions",FactSet ,"Hyderabad, Telangana, India",Information Technology & Services,"10,001","169,685 ",Full-time,Entry level,78
+J93,Business Analyst,Lenovo,"Bangalore Urban district, Karnataka, India",Information Technology & Services,"10,001","831,255 ",Full-time,NA,163
+J94,Software Engnieer-Data Engineer,Societe Generale Global Solution Centre,"Bengaluru, Karnataka, India Hybrid",Information Technology & Services,"10,000 ","224,654 ",Full-time,NA,37
+J95,MIS Data Analyst,Promaynov Advisory Services Pvt. Ltd ,"Gurgaon, Haryana, India",Human Resources,50 ,"2,292 ",Full-time ,Associate,200
+J96,Business Analyst,Tata Group,"Bengaluru, Karnataka, India ", Executive Office,"10,001","1,816,083 ",Full-time ,Associate,27
+J97,Data Analyst,edamama,"Delhi, Delhi, India",Retail  ,200 ,"3,288 ",Full-time ,Associate,25
+J98,Automation Test Engineer [T500-4723],Talent500,"Gurugram, Haryana, India",Human Resources,200 ,"76,573 ",Full-time,Associate,76
+J99,Experienced Data Engineer,Boeing,"Bengaluru, Karnataka, India",Aviation & Aerospace,"10,001","2,777,840 ",Full-time,NA,86
+J100,"Analyst, Master Data",Molex,"Bengaluru, Karnataka, India",Electrical & Electronic Manufacturing,"10,001","151,954 ",Full-time,Entry level,137
+J101,Application Architect: AWS Cloud,IBM ,"Pune, Maharashtra, India",Information Technology & Services,"10,001","14,405,435 ",Full-time,NA,8
+J102,Software Quality Senior Engineer,Dell Technologies,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001","4,170,257 ",Full-time,NA,25
+J103,Data Analyst,Hotstar,"Mumbai, Maharashtra, India",Computer Software,"1,000 ","719,332 ",Full-time,Entry level,200
+J104,Solutions Architect,IDEMIA ,"Noida, Uttar Pradesh, India",Information Technology & Services,"10,001","4,80,426",Full-time,Mid-Senior level,70
+J105,Analyst - Core Analytics - Power BI,Randstad India,"Thane, Maharashtra, India",Human Resources,"5,000 ","382,650 ",Full-time,Full-time,200
+J106,Google Analytics,Quess IT Staffing ,"Bengaluru, Karnataka, India ",Staffing & Recruiting,"10,001","242,803 ",Full-time,Mid-Senior level,55
+J107,Data Analyst,Merito.in,"Ahmedabad, Gujarat, India",Staffing & Recruiting,10 ,"7,486 ",Full-time,Executive,15
+J108,Data Analyst,Bayer ,"Bengaluru, Karnataka, India",Chemicals  ,"10,001","4,509,594 ",Full-time,Entry level,197
+J109,"Data Visualization Analyst | Gurgaon, India",Ubiquity ,"Gurgaon, Haryana, India",Outsourcing/Offshoring,"10,000 ","65,866 ",Full-time ,Entry level,200
+J110,Associate Data Analyst,Novo Nordisk,"Bengaluru, Karnataka, India",Pharmaceuticals  ,"10,001","1,303,260 ",Full-time,NA,200
+J111,Analyst - Sports Media,YouGov ,"Navi Mumbai, Maharashtra, India",Market Research,"5,000 ","333,491 ",Full-time,Mid-Senior level,136
+J112,Data Analyst,Media.net ,"Mumbai, Maharashtra, India",Internet  ,"5,000 ","227,081 ",Full-time,Entry level,200
+J113,Quality Engineer,NCR Corporation ,"Hyderabad, Telangana, India",Information Technology & Services,"10,001","409,137 ",Full-time ,Entry level,73
+J114,Content Intern,ARM Worldwide,"Gurugram, Haryana, India",Advertising Services,226,"13,671",Intenship,Entry-Level,5
+J115,Content Writer Intern,Kraft-Obench - WFH Pods | Home Offices | Sound Insulated Work Pods,"Delhi, India",Furniture and Home Furnishings Manufacturing,7,2110,Intenship,Entry-Level,10
+J116,Content Writer,T and T Realty Services Private Limited,"Gurgaon, Haryana, India",Real Estate,44,3648,Full-time,Entry-Level,15
+J117,SEO Content Writer Intern,SkyTrust IT Solutions,"New Delhi, Delhi, India",Advertising Services,10,946,Internship,Entry-Level,2
+J118,Digital marketing,Bizgurukul,"Delhi, India",Advertising Services,2467,"39,172",Full-time,Entry-Level,20
+J119,Digital Marketing Intern,Valves Only,"Navi Mumbai, Maharashtra, India",Industrial Machinery Manufacturing,2,"2,668",Full-time,Entry-Level,23
+J120,Student,The Golden Rise,"New Delhi, Delhi, India",Wellness and Fitness Services,32,"11,317",Full-time,NA,0
+J121,Content Writer,Supergrad,"Gurugram, Haryana, India","echnology, Information and Internet",14,"1,146",Full-time,NA,5
+J122,Recruitment fresher,Student Inc.,"Maharashtra, India",Education Administration Programs,110,"13,694",Full-time,NA,8
+J123,Junior Marketing Manager,Crepdog Crew,"Delhi, India",Retail Apparel and Fashion,19,"2,469",Full-time,Mid-Level,33
+J124,Social Media Marketing Intern,RecruitNXT,"Gurugram, Haryana, India",IT Services and IT Consulting,239,"26,396",Internship,Entry-Level,9
+J125,Content Writer,Phixman,"New Delhi, Delhi, India","Technology, Information and Internet",29,"2,812",Part-Time,Entry-Level,8
+J126,Content Writer Intern,Instamedz,India,Wellness and Fitness Services,13,"3,461",Full-time,Entry-Level,43
+J127,Paid Training + Free Project & Internship,Coincent.ai,India,E-Learning Providers,84,"10,426",Part-Time,Entry-Level,2
+J128,Content Writer,Vivaci Luxury Pvt. Ltd.,"Delhi, India",Advertising Services,5,"2,055",Internship,Entry-Level,10
+J129,Human Resources Intern,RecruitNXT,"Delhi, India",IT Services and IT Consulting,239,"26,396",Part-Time,Entry-Level,4
+J130,Communications Assistant,VRAKSH,"South Delhi, Delhi, India",Events Services,1,"1,171",Intenship,Mid-Level,4
+J131,Student,EntreLeadership,"Gurugram, Haryana, India",Business Consulting and Services,50,"34,034",Contract,Entry-Level,12
+J132,Social Media Management Intern,4WD Gaming,"Mumbai, Maharashtra, India",Public Relations and Marketing Agency,5,13,Full-time,Associate,15
+J133,Operations Internship in Gurgaon at Vplak,VPLAK,"Gurgaon, Haryana, India",Computers and Electronics Manufacturing,15,"1,172",Full-time,Entry-Level,10
+J134,Digital marketing,Achievers Club (Digital network Marketing),"Preet Vihar, Delhi, India",Advertising Services,2,745,Full-time,Entry-Level,18
+J135,Paid Certificate & Guarantee Internship,Coincent.ai,India,E-learning ,200,84,Internship,Entry-Level,12
+J136,IT Business Development Executive (Intern/Fresher) - 3 Openings Ahmedabad,Codage Habitation,Greater Ahmedabad Area,Information Services ,50,17,Full-time,Mid-Level,10
+J137,Content Writer,Spell Web InfoTech,"Noida, Uttar Pradesh, India",IT Services and IT Consulting,22,615,Part-Time,Entry-Level,2
+J138,Intern,Aarka Sports Management Pvt. Ltd.,"Delhi, India",Sports,50,132,Full-time,entry-Level,12
+J139,Human Resources Intern,MARS Exploration Pvt Ltd,"Delhi, India",Aviation & Aerospace,50,529,Full-time,Mid-Level,25
+J140,Business Development,Teamwork Communications Group,"Delhi, India",Public Relations & Communications,200,56,Full-time,Entry-Level,11
+J141,Virtual Assistant,Growup Outsourcing,"Delhi, India",Outsourcing/Offshoring,200,6,Full-time,Entry-Level,12
+J142,Digital Marketing Intern,7 STAR MEDTECH PVT. LTD.,"Noida, Uttar Pradesh, India",Marketing & Advertising,50,9,Full-time,Mid-Level,50
+J143,Digital Marketing Internship,KBK Business Solutions,"Uppal, Telangana, India",Information Technology & Services,200,25,Full-time,Entry-Level,0
+J144,Social Media Expert,StartupFlux,"Noida, Uttar Pradesh, India",Information Technology & Services ,50,23,Full-time,Entry-Level,23
+J145,Fresher,"""Work From Home""",Greater Delhi Area,Human Resources Services,5,"20,73,841",Full-time,Entry-Level,0
+J146,Internet Content Manager,Tax Advisory,India,Legal Services ,10,3,Full-time,Entry-Level,28
+J147,Content Writer,Digiwebcore,"Delhi, India",Information Technology & Services,0,"1,339",Full-time,Entry-Level,5
+J148,Digital marketing intern,ILP Overseas | International Learning Planners,India,Education Management,5000,708,Internship,Mid-Level,25
+J149,Recruitment,Work From Home Opportunity,"Agra, Uttar Pradesh, India",E-learning,200,"3,018",Full-time,Mid-Level,48
+J150,Content Writer,Flash Me Right,"New Delhi, Delhi, India",Information Technology & Services,10,7,Full-time,Entry-Level,25
+J151,Content Writer,PR Professionals,"Gurugram, Haryana, India",Public Relations & Communications ,200,56,Full-time,Entry-Level,98
+J152,Content Writer,Collegedunia,"Kolkata, West Bengal, India",Information Technology & Services,1000,"1,444",Part-Time,Entry-Level,0
+J153,Search Engine Optimization Executive,Flexsin,"Noida, Uttar Pradesh, India",Information Technology & Services,500,401,Full-time,Mid-Level,34
+J154,Associate,KnowledgeWorks Global Ltd.,"Noida, Uttar Pradesh, India",Book and Periodical Publishing,1038,"3,039",Full-time,NA,35
+J155,Social Media Marketing Intern,WhizCo,"New Delhi, Delhi, India",Online Media,200,133,Internship,NA,6
+J156,Digital Marketing Intern,Corizo,India,E-learning,200,136,Internship,NA,0
+J157,Human Resources Intern,Team4progress technologies,"Delhi, India",Information Technology & Services,120,25,Full-time,Entry-Level,12
+J158,Student,The Golden Rise,"Pune, Maharashtra, India","Health, Wellness & Fitness",50,32,Full-time,Entry-Level,22
+J159,Employee,ONLINE WORK FROM HOME,"New Delhi, Delhi, India",Human Resources Services,5,"20,73,928",Part-Time,Entry-Level,0
+J160,Fresher,Work From Home/ Fresher & Experience Jobs,Greater Delhi Area,Human Resources Services,1274,"2,29,016",NA,NA,1
+J161,Human Resources Intern,ILP Overseas | International Learning Planners,"Delhi, India",Education Management,5000,708,Internship,NA,0
+J162,Fundraiser Internship,Mantra Care,"Delhi, India",Hospital & Health Care ,500,76,Internship,NA,0
+J163,Digital Marketing Intern,Lernx,India,E-learning,200,262,Internship,Entry-Level,1
+J164,Fresher,"""Work From Home""","New Delhi, Delhi, India",Human Resources ,200,4,Full-time,NA,4
+J165,Student,The Golden Rise,"Noida, Uttar Pradesh, India","Health, Wellness & Fitness",50,32,Full-time,Entry-Level,22
+J166,Students and freshers,WORK FROM HOME/DIGITAL OPPORTUNITY,"Delhi, India",Human Resources Services,1274,"2,29,016",NA,NA,1
+J167,Volunteer,GreenBhumi,"Delhi, India",Environmental Services,239,"24,806",Internship,Entry-Level,0
+J168,Technical content writer,Apponward Technologies,"Noida, Uttar Pradesh, India",Information Technology & Services,200,30,Full-time,Entry-Level,0
+J169,Sales And Marketing Intern,ILP Overseas | International Learning Planners,India,Online Media,500,196,Full-time,Entry-Level,29
+J170,Assistant Manager,Kalkine Media Australia,"Noida, Uttar Pradesh, India",Education Management ,5000,"42,703 ",Internship,NA,7
+J171,Content Writer,Appy Pie,"Noida, Uttar Pradesh, India",Information Technology & Services ,500,15051,Full-time,Entry-Level,27
+J172,Freelance,Clarity,India,"Health, Wellness & Fitness",500,"27,366",Part-Time,Entry-Level,33
+J173,B.com/ Bca Student,work from anywhere,"New Delhi, Delhi, India","Health, Wellness & Fitness",1000,"54,517",Full-time,Mid-Senior-Level,159
+J174,Social Media Content Writer,CUR8,"Gurugram, Haryana, India",Computer Software,50,"18,857",Full-time,NA,32
+J175,Sales Manager,Karyarth,"Delhi, India",Management Consulting,50,"15,156",Full-time,NA,26
+J176,Marketing Intern,Connplex,"Ahmedabad, Gujarat, India",Entertainment,500,795,Internship,NA,14
+J177,Listener or Freelancer,Clarity,India,"Health, Wellness & Fitness",500,"27,367",Part-Time,NA,65
+J178,Online work for freshers,Ascent BPO Services Pvt. Ltd.,India,Outsourcing/Offshoring,50,"13,050",Part-Time,NA,0
+J179,Operation internship,Suvidha Foundation (Suvidha Mahila Mandal),India,Non-profit Organization Management,1000,"49,516",Internship,Entry-Level,19
+J180,Process Associate - Content Moderation - Marathi + English-HIG010759,Genpact,"Hyderabad, Telangana, India",Information Technology & Services,10001,"2,032,291 ",Full-time,Entry-Level,12
+J181,Influencer Marketing Intern,Madify,"Guwahati, Assam, India",Marketing & Advertising ,10,565,Internship,NA,6
+J182,Listener/Freelancer,Clarity,India,"Health, Wellness & Fitness",500,"27,367",Part-Time,Entry-Level,25
+J183,Associate,Wipro,"Gurugram, Haryana, India",IT Services and IT Consulting,294536,"60,72,255",Full-time,Entry-Level,201
+J184,Trainee Marketing Automation Executive,Third Eye Automation Pvt. Ltd,"Noida, Uttar Pradesh, India",Marketing & Advertising ,50,96,Full-time,Entry-Level,9
+J185,Student,Part Time & Freelancing,"New Delhi, Delhi, India",Management Consulting,500,"17,460",Part-Time,NA,19
+J186,Freshers / Graduates (Off Campus - BE / B.Tech - 2022 Passouts),Hitachi Vantara,"Bengaluru, Karnataka, India",Information Technology & Services,10000,"4,97,397",Internship,NA,201
+J187,Business Development Intern,Antino,"Gurugram, Haryana, India",Information Technology & Services,500,"15,139",Full-time,NA,13
+J188,Student,Part Time & Freelancing,"New Delhi, Delhi, India",Management Consulting,500,"17,460 ",Part-Time,NA,18
+J189,Business Development Executive,Square Yards,"Gurugram, Haryana, India",Real Estate,5000,"207,509 ",Full-time,Entry-Level,0
+J190,Content and Research marketing Internship,Project C Foundation - We Care For Your Mental Health,India,Non-profit Organization Management,200,"6,983 ",Internship,NA,19
+J191,Freshers,Health & Wellness Industry,"New Delhi, Delhi, India","Health, Wellness & Fitness ",200,"20,578 ",Full-time,NA,0
+J192,Social Media Marketing Internship in Multiple locations at PeakPals,PeakPals,"Delhi, Delhi, India","Health, Wellness & Fitness",51,"4,037 ",Internship,NA,4
+J193,Digital Marketing Internship in Delhi at Yokins Instruments Private Limited,Yokins Instruments Pvt Ltd,"Delhi, Delhi, India","Appliances, Electrical, and Electronics Manufacturing",9,93,Internship,NA,9
+J194,Social Media Marketing part time job/internship at Delhi in Kapable.club,Kapable,"Delhi, Delhi, India",E-learning ,50,"12,717 ",Internship,NA,1
+J195,Finance Intern,MBA Hub,India,E-learning,10,"26,284 ",Internship,NA,0
+J196,Social Media Marketing Internship in Noida at Wildlife Trust Of India,Wildlife Trust of India,"Noida, Uttar Pradesh, India",Non-profit Organization Management,200,"8,403 ",Internship,NA,2
+J197,Content/Copy writer internship,RicheMoi,India,IT Services and IT Consulting,279,"5,782 ",Full-time,Entry-Level,33
+J198,Social Media Marketing Internship in Gurgaon at Triller India,Triller,"Gurgaon, Haryana, India",Computer Software,500,"45,224 ",Internship,NA,9
+J199,Email Marketing Specialist,Krash IT Services,"New Delhi, Delhi, India",IT Services and IT Consulting,8,1279,Full-time,NA,15
+J200,Digital and Social Marketing Internship,The Gift Tree - Corporate Gift Hampers Co. ðŸŽðŸŽðŸŽ,"Mumbai, Maharashtra, India",Food and Beverage Services,2,72,Full-time,Entry-Level,15
+J201,Customer Support Executive,Million Minds Management Services Ltd.,"Ghaziabad, Uttar Pradesh, India",Staffing and Recruiting,236,"4,375 ",Full-time,NA,20
+J202,HR intern,NIRVODAY RECRUITMENT CELL,India,Information Technology & Services,50,"1,403 ",Full-time,NA,15
+J203,Assistant,Millionairetrack,"Kutch district, Gujarat, India",Book and Periodical Publishing,0,139,Full-time,NA,0
+J204,Corporate Acquisition Intern,triedge.in,India,Internet,50,"28,630 ",Internship,NA,0
+J205,Project Expert,Government Project,"Delhi, India",Services,0,100,Full-time,NA,16
+J206,Finance and Marketing Intern,MBA Hub,India,Committed to Quality and Customer Experience.,8,800,Full-time,na,27
+J207,Data Entry Specialist,MAXMOON SOLUTIONS Private Limited,"Lucknow, Uttar Pradesh, India",Marketing & Advertising ,200,243,Full-time,NA,25
+J208,Intership,Aashman Foundation,India,Non-profit Organization Management,5000,"111,480 ",Part-Time,na,8
+J209,Human Resources Intern,MomkidcareÂ®,"Preet Vihar, Delhi, India",Hospital & Health Care ,50,"13,425 ",Internship,Entry-Level,14
+J210,"Associate, RES",Gartner,"Gurgaon, Haryana, India",Information Service,10001,"1,416,744 ",Full-time,Entry-Level,155
+J211,Teaching Assistant,igebra.ai,"Raipur, Chhattisgarh, India",E-learning,200,4998,Full-time,na,10
+J212,Copywriter Intern,SoluLab,India,Information Technology & Services,200,"36,810 ",Internship,NA,0
+J213,Freshers and students,ONLINE WORK FROM HOME OPPORTUNITY,"New Delhi, Delhi, India",E-learning ,10001,"6,175 ",Part-Time,NA,10
+J214,Student,ONLINE WORK FROM HOME OPPORTUNITY,"New Delhi, Delhi, India","Health, Wellness & Fitness",500,"53,394 ",Part-Time,NA,21
+J215,Finance Intern,Corizo,India,E-learning,200,"19,615",Internship,NA,22
+J216,Marketing And Business Development Intern,Professionbeat,India,E-learning,"5,640 ",10,Full-time,na,0
+J217,Assistant,digital networking,"Shimla, Himachal Pradesh, India",Marketing & Advertising,50,"1,198 ",Full-time,Entry-Level,1
+J218,Digital Marketing Intern (Final year students only),GrowthX By Trustvardi,India,Marketing & Advertising,10,256 ,Full-time,Mid-Level,12
+J219,Career Counselor,Teachwell Professional Studies Institute Pvt Ltd,"New Delhi, Delhi, India",Education Administration Programs,53,449,Full-time,NA,7
+J220,Intern,Support And Care Humanity Foundation,India,Non-profit Organizations,287,"5,586 ",Internship,NA,7
+J221,Finance Intern,BAVCH EDUTECH,India,E-learning,82,"7,774 ",Internship,NA,9
+J222,Digital marketing fresher,"Work at Home Jobs - Online, Professional, Remote & Digital Marketing Team.","Pune, Maharashtra, India",Photography,10,520 ,Internship,NA,6
+J223,Travel sales Consultant,sharda services,"Delhi, India",Education Administration Programs,56,687 ,Full-time,NA,12
+J224,Relationship Officer,Moneyplus Financial Services Pvt. Ltd.,"New Delhi, Delhi, India",Financial Services,200,614 ,Full-time,NA,8
+J225,Student,Part time work from home oppotunity,"Delhi, India","Health, Wellness & Fitness",500,"53,430 ",Part-Time,NA,12
+J226,Human Resources Intern,VAYUZ Technologies,"Noida, Uttar Pradesh, India",Information Technology & Services,200,"6,589",Full-time,NA,25
+J227,Student,The Golden Rise,"Lucknow, Uttar Pradesh, India","Health, Wellness & Fitness",50,"11,370 ",Full-time,NA,0
+J228,Business Development Executive,Mentorsity,"New Delhi, Delhi, India",E-learning,200,"19,523",Full-time,NA,0
+J229,Copywriter,XP&D,"Gurugram, Haryana, India",Marketing & Advertising,200,"2,788 ",Full-time,NA,0
+J230,"Market research, social media and content Writer",sinzo,India,Information Technology & Services,200,"16,413 ",Internship,NA,15
+J231,Web Development Intern,Business Web Solutions,"Hyderabad, Telangana, India",Information Technology & Services,10,"34,512 ",Internship,NA,0
+J232,Recruiter,Empowering Women$,India,"Health, Wellness & Fitness",10000,"28,164 ",Full-time,NA,0
+J233,Software Engineer,HSBC,"Pune, Maharashtra, India",Financial Services,"10,001","30,44,675",Full-time,NA,5
+J234,Software Engineer,Amdocs,"Pune, Maharashtra, India",Telecommunications,"10,001","8,55,528",Full-time,Entry level,200
+J235,Software Developer,Luxoft,"Noida, Uttar Pradesh, India",IT Services and IT Consulting,"10,001","7,64,385",Full-time,Entry level,200
+J236,Tech Software Engineer in Test,UBS,"Pune, Maharashtra, India",Financial Services,"10,001","12,05,448",Full-time,NA,95
+J237,Software Engineer,Uniphore,"Pune, Maharashtra, India",IT Services and IT Consulting,"1,000","45,066",Full-time,Entry level,200
+J238,Software Engineer/Wealth & Personal Banking IT,HSBC,"Pune, Maharashtra, India",Financial Services,"10,001","30,44,682",Full-time,NA,0
+J239,"Junior Associate, Solution Engineering",Western Union,"Pune, Maharashtra, India",Financial Services,"10,000","2,34,769",Full-time,Entry level,1
+J240,SCM Engineer,Cyient,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","2,64,396",Full-time,Entry level,45
+J241,.Net Developer,Air Products India,"Pune, Maharashtra, India",Chemical Manufacturing,"5,000","30,048",Full-time,NA,21
+J242,Java Developer,HP,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","51,01,101",Full-time,NA,200
+J243,Application Analyst,VIAVI Solutions,"Pune, Maharashtra, India",Telecommunications,"5,000","75,719",Full-time,Associate,19
+J244,Software Developer,Hansen Technologies,"Pune, Maharashtra, India",Software Development,170,"24,385",Full-time,Mid Senior level,170
+J245,Developer,Wipro,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","60,72,226",Full-time,NA,128
+J246,Software Developer,Hansen Technologies,"Pune, Maharashtra, India",Software Development,"5,000","24,385",Full-time,Mid Senior level,100
+J247,SmartServ - Frontend Developer - Javascript,SmartServ,"Pune, Maharashtra, India",Software Development,200,"14,628",Full-time,Entry level,100
+J248,Software Engr II,Honeywell,"Pune, Maharashtra, India","Appliances, Electrical, and Electronics Manufacturing","10,001","22,21,938",Full-time,Entry level,61
+J249,Developer,Wipro,"Pune, Maharashtra, India",IT Services and IT Consulting,0,"60,72,243",Full-time,NA,144
+J250,Engineer - Civil Structural,Air Products India,"Vadodara, Gujarat, India",Chemical Manufacturing,"5,000","30,048",Full-time,NA,63
+J251,Engineer - Civil Structural,Air Products India,"Vadodara, Gujarat, India",Chemical Manufacturing,"5,000","30,048",Full-time,NA,59
+J252,Software Engineer - Service Now Developer - Service Portal,Amdocs,"Pune, Maharashtra, India",Telecommunications,"10,001","8,55,543",Full-time,Entry level,187
+J253,"Associate, Solution Engineering",Western Union,"Pune, Maharashtra, India",Financial Services,"10,000","2,34,770",Full-time,Entry level,1
+J254,Python Developer,Yudiz Solutions,"Ahmedabad, Gujarat, India",IT Services and IT Consulting,"1,000","19,488",Full-time,Entry level,200
+J255,"Junior Associate, Technology Operations (ServiceNow Developer)",Western Union,"Pune, Maharashtra, India",Financial Services,"10,000","2,34,770",Full-time,Entry level,19
+J256,Windows+MAC OS Technical Support Analyst,BMC Software,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,000","2,39,980",Full-time,NA,128
+J257,Software Engineer 2,Dell Technologies,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","41,70,251",Full-time,NA,82
+J258,"Analyst, Integration Quality",Evolent Health,"Pune, Maharashtra, India",Hospitals and Health Care,"5,000","63,236",Full-time,Associate,20
+J259,Senior Specialist - Software Engineering,LTI - Larsen & Toubro Infotech,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","17,60,160",Full-time,Associate,25
+J260,"Software Engineer, II",Zebra Technologies,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,000","2,60,894",Full-time,Entry level,66
+J261,Senior Software Engineer,Intelerad Medical Systems,"Pune, Maharashtra, India",Medical Equipment Manufacturing,"1,000","64,937",Full-time,Mid Senior level,7
+J262,Software Engineer - Testing,Napier Healthcare,"Hyderabad, Telangana, India",IT Services and IT Consulting,500,"18,355",Full-time,Associate,125
+J263,"Embedded Software Engineer (C++, QT)",Goken America,"Pune, Maharashtra, India",Design Services,500,"6,475",Full-time,Mid Senior level,16
+J264,Junior Architect & Junior Engineer,ArBis & Associates,"Namsai, Arunachal Pradesh, India",Software Development,44835,120,Full-time,NA,12
+J265,Junior Software Engineers Bangalore Office Job,TeamPlus Staffing Solution Pvt Ltd,"Bengaluru, Karnataka, India",Staffing and Recruiting,18568,"3,825",Full-time,Entry level,32
+J266,Software Engineer - Testing,Napier Healthcare,"Hyderabad, Telangana, India",IT Services and IT Consulting,500,"18,355",Full-time,Associate,135
+J267,Senior Executive_Engineer_Linux_Pune,_VOIS,"Pune, Maharashtra, India",IT Services and IT Consulting,"10,001","84,188",Full-time,Associate,6
+J268,Software Developer- Data & Analytics,Johnson Controls,"Pune, Maharashtra, India",Industrial Machinery Manufacturing,"10,001","11,49,075",Full-time,Entry level,72
+J269,Structural Engineer l,Worley,"Mumbai, Maharashtra, India",Professional Services,"10,001","10,01,176",Full-time,NA,136
+J270,Software Engineer 2,Microsoft,"Hyderabad, Telangana, India",Software Development,"10,001","1,77,80,427",Full-time,Entry level,91
+J271,Software Engineer 2,Microsoft,"Bengaluru, Karnataka, India",Software Development,"10,001","1,77,80,427",Full-time,Entry level,102
+J272,Software Engineer 2,Microsoft,"Hyderabad, Telangana, India",Software Development,"10,001","1,77,80,427",Full-time,Entry level,200
+J273,Technical Support Engineering M4,Microsoft,"Hyderabad, Telangana, India",Software Development,"10,001","1,77,80,427",Full-time,Entry level,67
+J274,Software Engineer 2,Microsoft,"Delhi, Delhi, India",Software Development,"10,001","1,77,80,427",Full-time,Entry level,106
+J275,Support Engineer Internship Opportunity for University Graduate,Microsoft,"Daman and Diu, India",Software Development,"10,001","1,77,80,427",Internship,Internship,10
+J276,Support Engineer Internship Opportunity for University Graduate,Microsoft,"Delhi, Delhi, India",Software Development,"10,001","1,77,80,427",Internship,Internship,107
+J277,SAP MM Hana Consultant,IBM,"Delhi, Delhi, India",IT Services and IT Consulting,"10,001","1,44,05,502",Full-time,NA,91
+J278,SAP MM Hana Consultant,IBM,"Mumbai, Maharashtra, India",IT Services and IT Consulting,"10,001","1,44,05,502",Full-time,NA,115
+J279,Package Consultant – SAP SD VC,IBM,"Mumbai, Maharashtra, India",IT Services and IT Consulting,"10,001","1,44,05,502",Full-time,NA,1
+J280,Package Consultant –SAP SD VC,IBM,"Delhi, Delhi, India",IT Services and IT Consulting,"10,001","1,44,05,502",Full-time,NA,3
+J281,CAO Control Programs- Associate,JPMorgan Chase & Co.,"Mumbai, Maharashtra, India",Financial Services,"10,001","33,21,410",Full-time,NA,5
+J282,Infrastructure Development,JPMorgan Chase & Co.,"Hyderabad, Telangana, India",Financial Services,"10,001","33,21,410",Full-time,NA,17
+J283,Quality Assurance_Disclosure of Interest,JPMorgan Chase & Co.,"Hyderabad, Telangana, India",Financial Services,"10,001","33,21,410",Full-time,NA,52
+J284,Talent Acquisition Lead,Autoliv ,"Bengaluru North, Karnataka, India",Motor Vehicle Manufacturing,14234,,Full-time ,Associate,37
+J285,Lead - Talent Acquisition,Volvo Group,"Bengaluru, Karnataka, India",Motor Vehicle Manufacturing,10000,"64,576",Full-time,NA,200
+J286,Associate Analyst - SOC,Verint ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","115,749 ",Full-time, Entry level,108
+J287,Database Architect,Tata Consultancy Services ,"Bengaluru, Karnataka, India",Information Technology & Services,"10,001+","1,06,07,460",Full-time ,Mid-Senior ,45
+J288,Infrastructure Architect,GlobalLogic,"Bengaluru, Karnataka, India ",Computer Software,"10,000","642,397 ",Full-time,Mid-Senior ,85
+J289,Site Reliability Engineer 3,Flipkart,"Bengaluru, Karnataka, India ",Computer Software,"10,000","2,912,399 ",Full-time,NA,118
+J290,Test Analyst (Retail Banking),Luxoft ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","7,64,411",Full-time,Mid-Senior,96
+J291,Team Lead,Amazon,"Bengaluru, Karnataka, India ",Computer Software,"10,000","2,75,44,868",Full-time,Mid-Senior,43
+J292,Principal Software Engineer,Dell Technologies ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","41,70,269",Full-time,Mid-Senior,21
+J293,Senior Site Reliability Engineer,BYJU'S,"Bengaluru, Karnataka, India ",E-learning,"10,000","1,534,350 ",Full-time,Associate,165
+J294,Technical Architect,HealthSignz Technologies Pvt. Ltd,"Bengaluru, Karnataka, India ",Information Technology & Services ,200,"4,853",Full-time,NA,58
+J295,Senior Database Solutions Architect,Pure Storage ,"Bengaluru, Karnataka, India ",Information Technology & Services,"5,000","2,83,462",Full-time,NA,41
+J296,Full Stack Developer,NewSpace Research and Technologies,"Bengaluru, Karnataka, India ",Aviation & Aerospace,200,"72,113",Full-time,Mid-Senior ,31
+J297,Quality Management Representative,Accurate Bearing Components,"Dodballapura, Karnataka, India",Automotive,200,424,Full-time,NA,95
+J298,Technical system Adminstrator,Tech Mahindra,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","36,40,847",Full-time,Mid-Senior ,57
+J299,Analytics Engineer,UPL,"Bengaluru, Karnataka, India ",Farming,"10,000","3,15,529",Full-time,Mid-Senior ,9
+J300,Database Administrator,Fidelity Investments ,"Bengaluru, Karnataka, India ",Financial Services,"10,000","7,12,805",Full-time,NA,51
+J301,Admissions Counselor,Bangalore School of Design ,"Bengaluru, Karnataka, India ",Higher Education,50,"1,085",Full-time,NA,77
+J302,CAD Designer,Molex ,"Bengaluru, Karnataka, India ",Electrical & Electronic Manufacturing ,"10,000","1,51,957",Full-time,Entry ,200
+J303,MIM (Major Incident Management),LTI - Larsen & Toubro Infotech ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","17,60,206",Full-time,Associate,200
+J304,Mechanical Drafter,HCL Technologies ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","40,61,543",Full-time,Mid-Senior ,200
+J305,Hardware Design Engineer,Growel Softech Ltd,"Bengaluru, Karnataka, India ",Information Technology & Services,"1,000","20,483",Full-time,Mid-Senior ,63
+J306,Structural engineer,Siemens Gamesa ,"Bengaluru, Karnataka, India ",Renewables & Environment ,"10,000","6,36,231",Full-time,Entry ,103
+J307,Maintenance Executive,SATS Ltd.,"Bengaluru, Karnataka, India ",Airlines/Aviation,"10,000","96,828",Full-time,Associate,200
+J308,Senior Engineer,Trane Technologies ,"Bengaluru, Karnataka, India ",Mechanical Or Industrial Engineering,"10,000","77,201 ",Full-time,Associate,173
+J309,EDA Tool Developer,IBM ,"Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","1,44,05,595",Full-time,NA,11
+J310,High Power Electronics Integration Senior Manager,Ola ,"Bengaluru, Karnataka, India ",Computer Software,"10,000","8,45,719",Full-time,Mid-Senior ,30
+J311,Staff Software Engineer,Arm,"Bengaluru, Karnataka, India ",Semiconductors,"10,000","3,39,185",Full-time,Associate,23
+J312,Project Manager,Samya.ai,"Bengaluru, Karnataka, India ",Computer Software,50,"9,872",Full-time, Mid-Senior,200
+J313,Engineering Manager,Zynga," Bengaluru, Karnataka, India ",Computer Games,"5,000","1,96,183",Full-time, Mid-Senior,125
+J314,Production Executive,Cargill ," Bengaluru, Karnataka, India ",Food Production,"10,000","19,53,189",Full-time, Mid-Senior,200
+J315,Solution Architect,EY," Bengaluru, Karnataka, India ",Accounting,"10,000","66,54,058",Full-time,Associate,35
+J316,Lean Product Owner,Northern Trust Corporation," Bengaluru, Karnataka, India ",Financial Services,"10,000","332,083 ",Full-time,Mid-Senior ,200
+J317,SDN Cloud Consultant / Architect,Juniper Networks," Bengaluru, Karnataka, India ",Computer Software,"10,000","6,30,179",Full-time,Director,87
+J318,Manager - Piping,SUEZ," Bengaluru, Karnataka, India ",Environmental Services,"10,000","2,91,967",Full-time,Mid-Senior,51
+J319,Safety Case Coordinator,SBM Nauvata ," Bengaluru, Karnataka, India ",Oil & Energy ,"1,000","13,587",Full-time,Mid-Senior,200
+J320,Software Engineer,"Rubrik, Inc."," Bengaluru, Karnataka, India ",Computer Software,"5,000","1,48,115",Full-time,Entry ,200
+J321,CNC Manufacturing Design Engineer,Apple ," Bengaluru, Karnataka, India ",Consumer Electronics,"10,000","1,72,63,708",Full-time,NA,200
+J322,Content Creator,Bear House Clothing Pvt Ltd ," Bengaluru, Karnataka, India ",NA,NA,NA,Full-time,NA,18
+J323,Interior Designer,TRISHA Interiors Extraordinaire ," Bengaluru, Karnataka, India ",NA,NA,NA,Full-time,NA,200
+J324,Principal Software Engineer,Dell Technologies ," Bengaluru, Karnataka, India ",Information Technology & Services,"10,000","41,70,269",Full-time,Mid-Senior,21
+J325,Procurement Specialist,ABB," Bengaluru, Karnataka, India ",Electrical & Electronic Manufacturing ,"10,000","28,55,753",Full-time,NA,200
+J326,"SoC Physical Design Engineer, Google Cloud",Google," Bengaluru, Karnataka, India ",Computer Software,"10,000","26,114,780 ",Full-time,NA,89
+J327,Test Analyst (Cards & Payments),Luxoft ,"Chennai, Tamil Nadu, India ",Information Technology & Services,"10,000","7,64,511",Full-time,Mid-Senior,133
+J328,Database Administrator,CSB Bank Limited ,"Chennai, Tamil Nadu, India ",Banking,"5,000","36,447 ",Full-time,Entry ,23
+J329,DATA VISUALIZATION,Prodapt,"Chennai, Tamil Nadu, India ",Media Production,"10,000","45,424",Full-time,Entry ,27
+J330,Database Tester,Prodapt,"Chennai, Tamil Nadu, India ",Media Production,"10,000","45,424",Full-time,Entry ,26
+J331,SQL ( DBA ),Golden Opportunities ,"Chennai, Tamil Nadu, India ",Staffing & Recruiting,200,"80,745",Full-time,Entry ,66
+J332,Customer Care Collections Associate,NTT DATA Services,"Chennai, Tamil Nadu, India ",Information Technology & Services,"10,000","4,46,224",Full-time,Entry ,2
+J333,Lead System Engineer - Windows,Societe Generale Global Solution Centre ,"Chennai, Tamil Nadu, India ",Information Technology & Services,"10,000","2,24,658",Part-time,NA,32
+J334,Hiring Interns across functions,Pickyourtrail ,"Chennai, Tamil Nadu, India ","Leisure, Travel & Tourism",200,"16,636",Internship,Internship,56
+J335,Network Engineer,TNQ Technologies ,"Chennai, Tamil Nadu, India ",Publishing,"5,000","21,819 ",Part-time,Mid-Senior,103
+J336,Part Time LIC-AGENCY ,LIC ,"Chennai, Tamil Nadu, India ",Insurance,"10,000","98,841",Part-time,NA,0
+J337,Operations And ERP Consulting,Avaesa ,"Chennai, Tamil Nadu, India ", Retail ,50,"2,269",Part-time,Internship,7
+J338,Summer Internship - Sales,Procter & Gamble,"Chennai, Tamil Nadu, India ",Consumer Goods,"10,000","70,40,644",Part-time,NA,47
+J339,Capital Market (Finance) ,Star Fing ,"Chennai, Tamil Nadu, India ",Financial Services,500,"3,946 ",Part-time,Internship,3
+J340,Ops Support Assistant,Citi,"Chennai, Tamil Nadu, India ",Financial Services,"10,000","38,13,426",Part-time,NA,6
+J341,Assistant Finance Controller,Hilton ,"Chennai, Tamil Nadu, India ",Hospitality,"10,000","16,60,195",Full-time,Enrty,108
+J342,COBOL Developer,Zenitus Technologies,"Chennai, Tamil Nadu, India ",Information Technology & Services,50,"2,057",Full-time,Enrty,3
+J343,Data Entry Operator,Red Group ,"Chennai, Tamil Nadu, India ",Real Estate,10,"8,672",Full-time,Enrty,30
+J344,Associate,BNP Paribas,"Chennai, Tamil Nadu, India ",Banking,"10,000","1,182,856 ",Full-time, Associate,45
+J345,housekeeping staff,White Force Group ," Coimbatore, Tamil Nadu, India",Staffing & Recruiting,500,"24,258",Full-time,Entry ,2
+J346,.Net Lead - Full Stack Development,QuestWorkx,"Chennai, Tamil Nadu, India",Human Resources ,10,"2,878",Full-time, Associate,0
+J347,Global Immigration,ACZ Global Pvt Ltd,"Chennai, Tamil Nadu, India",Human Resources ,50,"5,047",Full-time,Entry ,1
+J348,Application Database Administrator: RDBMS,IBM ,"Chennai, Tamil Nadu, India",Information Technology & Services,"10,000","1,44,05,902",Full-time,NA,3
+J349,EDI Senior Architect,Lennox India Technology Centre,"Chennai, Tamil Nadu, India",Mechanical Or Industrial Engineering,"1,000","29,271",Full-time, Associate,9
+J350,Learning Disabilities Support Worker,Onqanet Technologies Pvt. Ltd.,"Chennai, Tamil Nadu, India",Information Technology & Services,200,814,Full-time,Entry ,5
+J351,Project Manager,Barclays,"Chennai, Tamil Nadu, India",Financial Services ,"10,000","12,51,529",Full-time,Mid-Senior,29
+J352,Database Administrator,R1 RCM ,"Chennai, Tamil Nadu, India",Hospital & Health Care ,"10,000","98,799",Full-time,NA ,2
+J353,3D Designer,Zero Gravity Photography,"Chennai, Tamil Nadu, India",Photography,500,"2,781",Full-time,NA,48
