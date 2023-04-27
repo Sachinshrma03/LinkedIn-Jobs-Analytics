@@ -23,3 +23,7 @@ To use this project, you will need to have Python, Selenium, BeautifulSoup, SQL,
 # Conclusion
 
 This project demonstrates the use of a range of technologies to extract valuable insights from LinkedIn job postings. It can be used as a starting point for further analysis of job postings on LinkedIn, or as an example of how to use Python, Selenium, BeautifulSoup, SQL, and Excel for data analysis and visualization.
+
+# Dashboard 
+
+![image](https://user-images.githubusercontent.com/124041951/234933196-098f1a94-e555-4880-9d96-afbaa47e6b54.png)
