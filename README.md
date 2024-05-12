@@ -1,8 +1,7 @@
 # LinkedIn-Jobs-Analytics
 
-This project was completed during September 2022 with the aim to scrape job postings from LinkedIn, process and analyze the data, and present insights through a dashboard.
+This project was completed in September 2022 to scrape job postings from LinkedIn, process and analyze the data, and present insights through a dashboard.
 
-![image](https://github.com/Sachinshrma03/LinkedIn-Jobs-Analytics/assets/124041951/62b3c4e5-f47c-419d-96fa-2155babfae4a)
 
 
 # Technologies Used
@@ -13,7 +12,7 @@ BeautifulSoup
 SQL
 Excel
 Project Overview
-The project started with the scraping of job postings on LinkedIn using Python libraries like Selenium and BeautifulSoup. The scraped data was cleaned and analyzed using Python, and insights were extracted using SQL. Finally, a dashboard was created on Excel to present the results.
+The project started with the scraping of job postings on LinkedIn using Python libraries like Selenium and BeautifulSoup. The scraped data was cleaned and analyzed using Python, and insights were extracted using SQL. Finally, a dashboard was created in Excel to present the results.
 
 # Repository Contents
 
