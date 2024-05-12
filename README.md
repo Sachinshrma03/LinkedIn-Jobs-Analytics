@@ -2,6 +2,9 @@
 
 This project was completed during September 2022 with the aim to scrape job postings from LinkedIn, process and analyze the data, and present insights through a dashboard.
 
+![image](https://github.com/Sachinshrma03/LinkedIn-Jobs-Analytics/assets/124041951/62b3c4e5-f47c-419d-96fa-2155babfae4a)
+
+
 # Technologies Used
 
 Python
